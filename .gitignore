@@ -1,0 +1,10 @@
+# 编译产物
+*.exe
+*.obj
+*.pdb
+*.ilk
+
+# VS 生成的
+.vs/
+Debug/
+Release/
